@@ -2,7 +2,6 @@
 
 **Contents:**
 - [Panel: Strategies for rapidly pivoting to remote work](#panel-strategies-for-rapidly-pivoting-to-remote-work)
-- [Panel: I'm newly remote under coronavirus, AMA](#panel-im-newly-remote-under-coronavirus-ama)
 - [Other Resources](#other-resources)
 
 ## Panel: Strategies for rapidly pivoting to remote work 
@@ -25,6 +24,7 @@
 - Don't expect to get as much done as you would have pre-pandemic, if you manage to get things done it's an acheivement
 - Try to set goals which allow flexibility but also help ensure people don't stay blocked. E.g. try to check emails by 10am, try to review a PR by 1pm, check in at least once a day on a casual channel
 - Don't forget about those trips to the tea station, how can you recreate them? What about all those lunchtime conversations?
+- celebrate good things and small wins
 
 ### What can be heplful for managers/leads to be focusing on right now
 - Allow people to stop worrying about job security. If financials are good communicate that - it can help workers feel more relaxed while their friends/loved ones are losing their jobs
@@ -50,8 +50,6 @@
 - It could give remote working a bad rep. But it's important to remember that the situation of not being able to be outside, having kids at home, etc. majorly effects the view of the experience.
 - It shows that not necessarily everyone *should* work from home, but everybody *could*. This could open up job oppurtunities to those with diabilities or unable to travel everyday and allow companies to be more open to remote working as a possibility
 
-
-## Panel: I'm newly remote under coronavirus, AMA
 
 ## Other resources
 - [Awesome Remote Job - GitHub](https://github.com/lukasz-madon/awesome-remote-job)
