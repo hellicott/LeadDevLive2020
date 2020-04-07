@@ -2,6 +2,8 @@
 
 **Contents:**
 - [Panel: Strategies for rapidly pivoting to remote work](#panel-strategies-for-rapidly-pivoting-to-remote-work)
+- [Ideas](#ideas)
+- [Silver Linings](#silver-linings)
 - [Other Resources](#other-resources)
 
 ## Panel: Strategies for rapidly pivoting to remote work 
@@ -50,6 +52,20 @@
 - It could give remote working a bad rep. But it's important to remember that the situation of not being able to be outside, having kids at home, etc. majorly effects the view of the experience.
 - It shows that not necessarily everyone *should* work from home, but everybody *could*. This could open up job oppurtunities to those with diabilities or unable to travel everyday and allow companies to be more open to remote working as a possibility
 
+## Ideas
+- Designate mornings as *group discussion time* and afternoons as *focus time*. In the afternoons, unless it is a blocker you save possible group discussions until the next morning. 
+
+PROS: Helps organise the day. Reduces distractions
+
+CONS: Could discourage people from voicing a problem. Won't 
+
+- 
+
+## Silver Linings
+- We're all learning a lot - about each other, remote working, our internet connections
+- We'll much better set up for remote working once this is over
+- A new emphasis on *people first* attitudes
+- Meeting people's families and pets
 
 ## Other resources
 - [Awesome Remote Job - GitHub](https://github.com/lukasz-madon/awesome-remote-job)
